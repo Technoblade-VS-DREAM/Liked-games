@@ -1,0 +1,21 @@
+.line
+{
+    width: 1425;
+    height: 3;
+    background-color: aquamarine;
+}
+body
+{
+    text-align: center;
+    background:  linear-gradient(green, aquamarine);
+}
+#myCarousel
+{
+    background-color: aquamarine;
+
+}
+#myCarousel img
+{
+    height: 300;
+    width: 200;
+}
